@@ -149,17 +149,16 @@
 }
 .table__heading {
   margin: 0;
+  padding: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 .table__text {
-  margin: 20px 0;
+  margin: 20px 0 0;
+  list-style: none;
 }
 
-.table__text_paragraph {
-  margin: 20px 0;
-}
 /* ! Фейнман */
 
 .feynman {
