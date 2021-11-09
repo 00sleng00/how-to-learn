@@ -430,8 +430,7 @@ a:hover {
 .resources__logo {
   width: 270px;
   height: 38px;
-  background: center no-repeat;
-  background-size: contain;
+  text-align: center;
 }
 
 /* ! Низ */
