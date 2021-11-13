@@ -9,4 +9,9 @@
    font-size: 36px;
    font-weight: normal;
    z-index: 2;
+   transition: opacity 0.2s linear;
+}
+
+.feynman__link:hover {
+   opacity: 0.7;
 }
